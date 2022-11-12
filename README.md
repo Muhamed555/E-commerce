@@ -23,6 +23,6 @@
 
 # About the Project 
 This project is an application of what I have learned over the past 12 months to enhance my backend-development and machine learning skills, I mainly used bootstrap to build the website interface with some HTML and CSS tweaks, I used python and flask for the backend, and created a section called "Related Products” which uses a type of  recommender system technique called “content similarity” to improve the user experience.
-End Date: 10/12/2022
+End Date: 12/10/2022
 
 # Video of the project 
