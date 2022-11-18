@@ -1,5 +1,17 @@
 # E-commerce 
 
+# About the Project 
+This project is an application of what I have learned over the past 12 months to enhance my backend-development and machine learning skills, I mainly used bootstrap to build the website interface with some HTML and CSS tweaks, I used python and flask for the backend, and created a section called "Related Products” which uses a type of  recommender system technique called “content similarity” to improve the user experience.
+End Date: 12/10/2022
+
+# Languages and Libraries Used
+- Python 
+- HTML 
+- CSS
+- Bootstrap
+- Flask
+- Pandas
+
 # Website
 ![dark-home](https://user-images.githubusercontent.com/92875984/201495977-595ecbab-0952-4775-bb67-02d8bfeca418.png)
 ![light-home](https://user-images.githubusercontent.com/92875984/201496001-2d0bfce6-d166-4d32-a3c6-39c60eb56710.png)
@@ -13,16 +25,7 @@
 ![Screenshot 2022-11-12 235906](https://user-images.githubusercontent.com/92875984/201496324-3c006291-5464-4a94-b977-2faba92f1036.png)
 ![Screenshot 2022-11-12 235946](https://user-images.githubusercontent.com/92875984/201496326-2f559ffc-ffd1-4f52-bfad-e3ed28b5340e.png)
  
-# Languages and Libraries Used
-- Python 
-- HTML 
-- CSS
-- Bootstrap
-- Flask
-- Pandas
 
-# About the Project 
-This project is an application of what I have learned over the past 12 months to enhance my backend-development and machine learning skills, I mainly used bootstrap to build the website interface with some HTML and CSS tweaks, I used python and flask for the backend, and created a section called "Related Products” which uses a type of  recommender system technique called “content similarity” to improve the user experience.
-End Date: 12/10/2022
+
 
 # Video of the project 
