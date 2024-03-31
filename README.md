@@ -26,6 +26,3 @@ End Date: 12/10/2022
 ![Screenshot 2022-11-12 235946](https://user-images.githubusercontent.com/92875984/201496326-2f559ffc-ffd1-4f52-bfad-e3ed28b5340e.png)
  
 
-
-
-# Video of the project 
